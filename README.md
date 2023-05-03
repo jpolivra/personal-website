@@ -1,2 +1,3 @@
-# Under refactoring
-it used to be the my first personal website build, now i'm trying to recreate this from zero using react, typescript, some new technologies.
+# My personal website client
+
+Feel free to navigate between my personal website source code. The first version of it was developed as a static website hosted in the GitHub Pages, but now I'm trying to develop using NextJS.
